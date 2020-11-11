@@ -6,5 +6,8 @@ public class Hello {
     publinc static void display(string name){
         system.out.println("this is display" name);
     }
+    public static void message(){
+        system.out.println("this is an extra line");
+    }
 
 }
