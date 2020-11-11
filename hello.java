@@ -3,7 +3,7 @@ public class Hello {
         system.out.println("this is a simple java code ");
         display("hi");
     }
-    publinc static void display(string name){
+    public static void display(string name){
         system.out.println("this is display" name);
     }
 
